@@ -1,0 +1,15 @@
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheNextCar\TheNextCar\bin\Debug\TheNextCar.exe.config
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheNextCar\TheNextCar\bin\Debug\TheNextCar.exe
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheNextCar\TheNextCar\bin\Debug\TheNextCar.pdb
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheNextCar\TheNextCar\obj\Debug\TheNextCar.csproj.AssemblyReference.cache
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheNextCar\TheNextCar\obj\Debug\MainWindow.g.cs
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheNextCar\TheNextCar\obj\Debug\App.g.cs
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheNextCar\TheNextCar\obj\Debug\TheNextCar_MarkupCompile.cache
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheNextCar\TheNextCar\obj\Debug\TheNextCar_MarkupCompile.lref
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheNextCar\TheNextCar\obj\Debug\MainWindow.baml
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheNextCar\TheNextCar\obj\Debug\TheNextCar.g.resources
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheNextCar\TheNextCar\obj\Debug\TheNextCar.Properties.Resources.resources
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheNextCar\TheNextCar\obj\Debug\TheNextCar.csproj.GenerateResource.cache
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheNextCar\TheNextCar\obj\Debug\TheNextCar.csproj.CoreCompileInputs.cache
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheNextCar\TheNextCar\obj\Debug\TheNextCar.exe
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheNextCar\TheNextCar\obj\Debug\TheNextCar.pdb
